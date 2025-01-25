@@ -6,7 +6,7 @@ This project focuses on building a model to analyze and predict the properties o
 Explore the relationships between various ingredients of concrete (e.g., cement, water, aggregates) and its resulting properties.
 Develop a predictive model to estimate specific characteristics such as compressive strength.
 
-## What I Did
+## Implementation
 ### Data Collection and Cleaning:
 Gathered a dataset containing records of concrete mixtures and their measured properties. Removed invalid or missing values to ensure accurate analysis.
 
