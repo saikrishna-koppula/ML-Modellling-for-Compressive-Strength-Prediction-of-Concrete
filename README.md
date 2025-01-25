@@ -1,7 +1,4 @@
 # ML-Modellling-for-Compressive-Strength-Prediction-of-Concrete
-This is a repository for my project on Machine Learning Modelling for Compressive Strength Prediction of Superplasticizer-Based Concrete.
-
-
 ## Overview
 This project focuses on building a model to analyze and predict the properties of concrete based on its composition. Concrete is a widely used construction material, and understanding how its components affect its properties is essential for improving strength, durability, and cost efficiency.
 
